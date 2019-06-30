@@ -1,2 +1,8 @@
 # todo_list
-to-do list
+Created a to-do list by using jQuery for logic.
+
+Icons from FontAwesome, background from UIgradients.
+
+Hover over each task to either delete, or click to mark completion. 
+
+Click on the ball icon to toggle the add new task field.
