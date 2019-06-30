@@ -1,5 +1,5 @@
 # todo_list
-Created a to-do list by using jQuery for logic.
+Created a to-do list with HTML/CSS and jQuery for logic.
 
 Icons from FontAwesome, background from UIgradients.
 
